@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1572553094 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1572553094
+["pdflatex"] 1582564197 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1582564197
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc" 1455236391 2315 334715164332d078f211e6ad023c662e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -7,6 +7,7 @@
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm" 1136768653 2056 c1139be27ba1a58dc7e52d8e32ea1208 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm" 1136768653 2568 03eec8472f6969c31cdb5c8d5a654cf6 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm" 1136768653 1348 f4174868edc712ccb6079f0b57dbcfdf ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm" 1136768653 2284 54309a7b6fc3665a0be437133b80511a ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm" 1136768653 2284 861e5309a3e09d74071777f716a582cc ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm" 1136768653 3528 0711c6c96865155bce7256fa14ac59b1 ""
@@ -31,6 +32,7 @@
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb" 1136849748 52665 661b1e6b26edb5f50dd491f8a701cb57 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb" 1136849748 50022 90249cba7e3e4e9845f80328d6f9bd13 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplb9o.vf" 1136768653 1060 9bdcf049d0c7a1140f426634a36a9571 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplr9c.vf" 1136768653 2908 c7a03afe5d67b6476673018447828dc3 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplr9o.vf" 1136768653 1060 4d4774245fc6bf004a0ffa7ea12806dd ""
   "/usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplrc9o.vf" 1136768653 1012 9cb59f3d91e2204c339c94008e154ae5 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplri9o.vf" 1136768653 1056 37167033a0096300ff07e78ae54243ec ""
@@ -73,6 +75,7 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pplj.fd" 1137110629 869 9765301c678d5ab1879edc807ef55670 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pplx.fd" 1137110629 869 d5724c6202887be8690c71fe9df2f441 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1zplm.fd" 1137110629 436 5e7baa1a259bab50a2bdffad6426f38c ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1pplj.fd" 1137110629 634 e14923a81338a5c5b4606ab2ca590f5e ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/sectsty/sectsty.sty" 1137110779 22423 d476012cd03f82f9475ad54ba6cd3267 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty" 1458858524 37387 afa86533e532701faf233f3f592c61e0 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty" 1334873510 1048 517e01cde97c1c0baf72e69d43aa5a2e ""
@@ -82,11 +85,11 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "ARegan-cv.aux" 1572553094 2714 a212a306ab628db0fc9e002f75509058 "pdflatex"
-  "ARegan-cv.out" 1572553094 922 c0c4cc430cd010521bba9220bf6d670e "pdflatex"
-  "ARegan-cv.tex" 1572553082 10813 6e6cf9c039ea1778a62c18ea9f97107a ""
+  "ARegan-cv.aux" 1582564197 2810 4b6f6bf856ea5af0d57ff99d12c62f6c "pdflatex"
+  "ARegan-cv.out" 1582564197 969 fa50ec5d37daaac0f3428cbb2de36fcd "pdflatex"
+  "ARegan-cv.tex" 1582564195 11223 2c735cb247a608b5f2fcd6f75e5b3cae ""
   (generated)
-  "ARegan-cv.aux"
-  "ARegan-cv.log"
-  "ARegan-cv.out"
   "ARegan-cv.pdf"
+  "ARegan-cv.out"
+  "ARegan-cv.log"
+  "ARegan-cv.aux"

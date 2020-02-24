@@ -159,6 +159,10 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplri9o.vf
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplrij8r.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/palatino/pplr9c.vf
 INPUT ARegan-cv.aux
 INPUT ./ARegan-cv.out
 INPUT ./ARegan-cv.out

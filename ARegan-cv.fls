@@ -50,6 +50,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/footmisc/footmisc.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty

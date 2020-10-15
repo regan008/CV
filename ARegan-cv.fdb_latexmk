@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1582564197 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1582564197
+["pdflatex"] 1601994387 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1601994387
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc" 1455236391 2315 334715164332d078f211e6ad023c662e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -52,6 +52,7 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def" 1523050425 7769 97b639552068544f7c98d557abb19f41 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu" 1544567569 4973 923be56c54607ca99f7cc085a8c7e52b ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1548974385 11128 a53805799bebfed6358fc1658a18e41f ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/footmisc/footmisc.sty" 1312311212 25776 d28bd6d82f168f8cb2268584b67a2a98 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty" 1525727744 41645 0653033a985e06c69a2a9cea9a95e31a ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty" 1523134385 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def" 1543704539 51744 477aad43ad6a7ba8c462d20c3e0808e0 ""
@@ -85,11 +86,11 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "ARegan-cv.aux" 1582564197 2810 4b6f6bf856ea5af0d57ff99d12c62f6c "pdflatex"
-  "ARegan-cv.out" 1582564197 969 fa50ec5d37daaac0f3428cbb2de36fcd "pdflatex"
-  "ARegan-cv.tex" 1582564195 11223 2c735cb247a608b5f2fcd6f75e5b3cae ""
+  "ARegan-cv.aux" 1601994387 2810 e1315e30ae8dae58d1566c51f0796e52 "pdflatex"
+  "ARegan-cv.out" 1601994387 969 fa50ec5d37daaac0f3428cbb2de36fcd "pdflatex"
+  "ARegan-cv.tex" 1601994335 12526 a68487e50a44299364c8dfc387aaf8be ""
   (generated)
-  "ARegan-cv.pdf"
-  "ARegan-cv.out"
-  "ARegan-cv.log"
   "ARegan-cv.aux"
+  "ARegan-cv.pdf"
+  "ARegan-cv.log"
+  "ARegan-cv.out"

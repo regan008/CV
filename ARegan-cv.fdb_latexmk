@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1627485546 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1627485547
+["pdflatex"] 1635360003 "ARegan-cv.tex" "ARegan-cv.pdf" "ARegan-cv" 1635360004
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc" 1561323594 2496 4d35740f3a177992ff7b134746c0a1db ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -101,11 +101,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1627484602 2724742 47efacc3a1903c0dce12bf7bffd53154 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "ARegan-cv.aux" 1627485546 2951 506e93bca88c4b5d1020b4785085a1ba "pdflatex"
-  "ARegan-cv.out" 1627485546 2684 d811d09dd2f0a3bc09ac0e98b5ab8846 "pdflatex"
-  "ARegan-cv.tex" 1627485538 12987 f8ef63d83ff3bbb5df9260d4a254d3e1 ""
+  "ARegan-cv.aux" 1635360004 2924 a73b14102e6292052afb8bd3752ab5fd "pdflatex"
+  "ARegan-cv.out" 1635360004 2580 66319cce0b7352732c258337148a04f7 "pdflatex"
+  "ARegan-cv.tex" 1635360000 13513 d8c8d3f1475afca8d59a07d5ac111860 ""
   (generated)
-  "ARegan-cv.out"
-  "ARegan-cv.aux"
   "ARegan-cv.log"
+  "ARegan-cv.aux"
   "ARegan-cv.pdf"
+  "ARegan-cv.out"

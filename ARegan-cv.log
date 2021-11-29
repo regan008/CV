@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.28)  27 OCT 2021 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.28)  29 NOV 2021 06:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,10 +446,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:160: Undefined control sequence.
+./ARegan-cv.tex:163: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.160 \subsection{grants}
+l.163 \subsection{grants}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -457,14 +457,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 161.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 164.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
-./ARegan-cv.tex:165: Undefined control sequence.
+./ARegan-cv.tex:168: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.165 \subsection{reviews}
+l.168 \subsection{reviews}
                           \label{reviews}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -472,10 +472,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:171: Undefined control sequence.
+[2]
+./ARegan-cv.tex:174: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.171 \subsection{academic and research positions}
+l.174 \subsection{academic and research positions}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -484,15 +485,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 172--173
+Underfull \hbox (badness 3838) in paragraph at lines 175--176
 \OT1/pplj/m/it/10.95 (+20) Legacy\OT1/pplj/m/n/10.95 (+20) ; Cen-ter for Pres-i-den-tial His-tory, South-ern Methodist Uni-ver-sity, 2020-present.
  []
 
-[2]
-./ARegan-cv.tex:188: Undefined control sequence.
+./ARegan-cv.tex:191: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.188 \subsection{teaching and research fields}
+l.191 \subsection{teaching and research fields}
                                                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -500,10 +500,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:191: Undefined control sequence.
+./ARegan-cv.tex:194: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.191 \subsection{teaching experience}
+l.194 \subsection{teaching experience}
                                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -511,10 +511,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:200: Undefined control sequence.
+./ARegan-cv.tex:203: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.200 \subsection{guest lectures}
+l.203 \subsection{guest lectures}
                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -522,10 +522,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:209: Undefined control sequence.
+[3]
+./ARegan-cv.tex:212: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.209 \subsection{digital humanities workshops}
+l.212 \subsection{digital humanities workshops}
                                                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -533,11 +534,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[3]
-./ARegan-cv.tex:222: Undefined control sequence.
+./ARegan-cv.tex:225: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.222 \subsection{service}
+l.225 \subsection{service}
                           \label{service}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -545,10 +545,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:235: Undefined control sequence.
+./ARegan-cv.tex:238: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.235 \subsection{other digital work}
+l.238 \subsection{other digital work}
                                      \label{other-digital-work}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -556,10 +556,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:243: Undefined control sequence.
+./ARegan-cv.tex:246: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.243 \subsection{awards and honors}
+l.246 \subsection{awards and honors}
                                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -568,10 +568,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [4]
-./ARegan-cv.tex:265: Undefined control sequence.
+./ARegan-cv.tex:268: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.265 ...{languages and digital humanities skills}
+l.268 ...{languages and digital humanities skills}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -579,10 +579,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./ARegan-cv.tex:276: Undefined control sequence.
+./ARegan-cv.tex:279: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.276 \subsection{professional memberships}
+l.279 \subsection{professional memberships}
                                            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -595,15 +595,15 @@ Package rerunfilecheck Info: File `ARegan-cv.out' has not changed.
 (rerunfilecheck)             Checksum: 66319CCE0B7352732C258337148A04F7;2580.
  ) 
 Here is how much of TeX's memory you used:
- 10555 strings out of 478994
- 160266 string characters out of 5858184
+ 10565 strings out of 478994
+ 160356 string characters out of 5858184
  495231 words of memory out of 5000000
  27599 multiletter control sequences out of 15000+600000
- 438318 words of font info for 260 fonts, out of 8000000 for 9000
+ 438834 words of font info for 268 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,10n,74p,335b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ARegan-cv.pdf (5 pages, 118977 bytes).
+Output written on ARegan-cv.pdf (5 pages, 119943 bytes).
 PDF statistics:
  150 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams

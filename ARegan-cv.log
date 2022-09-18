@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.27)  2 SEP 2022 14:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.27)  18 SEP 2022 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -477,6 +477,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[2]
 /Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:166: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
@@ -488,7 +489,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[2]
 /Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:183: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
@@ -556,6 +556,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[4]
 /Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:246: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
@@ -567,7 +568,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[4]
 /Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:254: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
@@ -601,7 +601,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[5] (./ARegan-cv.aux)
+[5] [6] (./ARegan-cv.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -615,18 +615,18 @@ Package rerunfilecheck Info: Checksums for `ARegan-cv.out':
 (rerunfilecheck)             After:  79978C155A7FC9EA476E72B5765C083C;3033.
  ) 
 Here is how much of TeX's memory you used:
- 11497 strings out of 478268
- 183867 string characters out of 5846347
+ 11498 strings out of 478268
+ 183873 string characters out of 5846347
  519070 words of memory out of 5000000
  29240 multiletter control sequences out of 15000+600000
  505448 words of font info for 281 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,63p,1062b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ARegan-cv.pdf (5 pages, 123431 bytes).
+Output written on ARegan-cv.pdf (6 pages, 123878 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
  60417 words of extra memory for PDF output out of 61914 (max. 10000000)
 

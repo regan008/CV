@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.27)  16 DEC 2022 08:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.27)  16 DEC 2022 08:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,10 +523,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:218: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:220: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.218 \subsection{digital humanities workshops}
+l.220 \subsection{digital humanities workshops}
                                                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -534,10 +534,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:231: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:233: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.231 ...artment, college, and university service}
+l.233 ...artment, college, and university service}
                                                   \label{Department, College...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -545,10 +545,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:234: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:236: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.234 ...other professional and community service}
+l.236 ...other professional and community service}
                                                   \label{Other Professional ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -557,10 +557,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [4]
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:253: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:255: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.253 \subsection{other digital work}
+l.255 \subsection{other digital work}
                                      \label{other-digital-work}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -568,10 +568,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:261: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:263: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.261 \subsection{awards and honors}
+l.263 \subsection{awards and honors}
                                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -579,10 +579,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:283: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:285: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.283 ...{languages and digital humanities skills}
+l.285 ...{languages and digital humanities skills}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -591,10 +591,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [5]
-/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:294: Undefined control sequence.
+/Users/amandaregan/Dropbox/Aregan-cv/research focused/ARegan-cv.tex:296: Undefined control sequence.
 \SS@subsectfont ...ily \mdseries \scshape \normal 
                                                   
-l.294 \subsection{professional memberships}
+l.296 \subsection{professional memberships}
                                            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -624,7 +624,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,12n,63p,1062b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ARegan-cv.pdf (6 pages, 124332 bytes).
+Output written on ARegan-cv.pdf (6 pages, 124458 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream

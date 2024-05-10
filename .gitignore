@@ -4,3 +4,6 @@
 *.log
 *.out
 *.synctex.gz
+*.aux
+.synctex
+.DS_Store
